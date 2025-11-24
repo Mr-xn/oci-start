@@ -242,10 +242,14 @@ Thanks to the following users for their generous support (in chronological order
 
 | 👤 Donor | 💰 Amount/Item | 📅 Date |
 |:----------:|:------------:|:--------:|
+| Anonymous | ¥30 | 2025-11-02 |
+| @yuchenfan492 | ¥30 | 2025-10-26 |
+| @ananitsme | ¥50 | 2025-10-25 |
+| Conan(@KN_001) | ¥200 | 2025-10-25 |
 | @xwbay | ¥88 | 2025-10-18 |
 | Anonymous | ¥10 | 2025-09-21 |
-| Conan | ¥100 | 2025-09-13 |
-| Conan | GCP Account | 2025-07-15 |
+| Conan(@KN_001) | ¥100 | 2025-09-13 |
+| Conan(@KN_001) | GCP Account | 2025-07-15 |
 | Riva Milne | GCP Account | 2025-07-15 |
 | Ja3pez | ¥30 | 2025-07-15 |
 | Anonymous | ¥50 | 2025-07-15 |
